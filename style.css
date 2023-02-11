@@ -1,5 +1,5 @@
 .container{
-    margin-bottom: 20px;
+    margin-bottom: 70px;
 }
 .buy-now-button{
     background-color: black;
@@ -19,4 +19,45 @@
     background-image: url("hot-gadgets/bg-2.png");
     background-repeat: no-repeat;
     background-position: left;
+}
+.card{
+    box-shadow: 5px 5px 10px lightgray;
+    border: none;
+   
+}
+.card-body{
+    text-align: center;
+}
+.cat1{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.pic-1{
+    padding: 10px;
+    box-shadow: 5px 5px 10px lightgrey;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    margin-bottom: 10px;
+    height: 200px;
+}
+
+.pic-2{
+    padding: 10px;
+    box-shadow: 5px 5px 10px lightgrey;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    margin-bottom: 10px;
+    height: 200px;
+}
+.pic-3{
+    padding: 10px;
+    box-shadow: 5px 5px 10px lightgrey;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    margin-bottom: 10px;
+    height: 200px;
+    
 }
