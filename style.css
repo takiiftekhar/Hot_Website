@@ -1,0 +1,22 @@
+.container{
+    margin-bottom: 20px;
+}
+.buy-now-button{
+    background-color: black;
+    color: white;
+    font-size: small;
+    border-radius: 10px;
+    width: 130px;
+    height: 50px;
+}
+.top-banner{
+   background-image: url("hot-gadgets/bg-1.png");
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: 50px;
+}
+.side-banner{
+    background-image: url("hot-gadgets/bg-2.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
